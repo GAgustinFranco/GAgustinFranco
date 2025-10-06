@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Agustín Galvez  
 
-💻 **Full Stack Web Developer** | 🎯 Enfocado en backend y desarrollo de aplicaciones completas.  
+💻 **Full Stack Web Developer** | 🎯 Especializado en backend y desarrollo de aplicaciones completas.  
 📍 Argentina, Santa Fe (Capital)  
 📧 **Email:** agustingalvez0901@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/agustín-galvez-320838228) | [GitHub](https://github.com/GAgustinFranco)
