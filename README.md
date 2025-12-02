@@ -23,7 +23,7 @@ Me apasiona diseñar soluciones escalables, optimizadas y centradas en la experi
 **Frontend:** React | Vite | HTML | CSS | Axios | React Router  
 **Backend:** Node.js | Express | NestJS | TypeORM | Mongoose | REST API | JWT  
 **Bases de datos:** PostgreSQL | MongoDB  
-**Herramientas:** Git | GitHub | Cloudinary | Slack | Nodemon  
+**Herramientas:** Git | GitHub | Cloudinary | Slack | Nodemon | Swagger | Render | Integración de pasarela de pagos | SendGrid | Passport | Docker
 **Metodologías:** Scrum  
 
 ---
