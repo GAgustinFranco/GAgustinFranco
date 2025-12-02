@@ -41,23 +41,28 @@ Me apasiona diseñar soluciones escalables, optimizadas y centradas en la experi
 
 ### 🏋️ [TrainX – Gestión de entrenamientos fitness](https://github.com/GAgustinFranco/trainx-front)
 Aplicación que permite a los usuarios crear, personalizar y seguir sus planes de ejercicio y rutinas de entrenamiento.
+>
 **Stack:** React, NestJS, TypeORM, PostgreSQL
 #### Deployment: trainx-front.vercel.app
 
 ### 🛒 [Tienda Online – Carrito de compras (m², m y unidad)](https://github.com/GAgustinFranco/Carrito-de-compras-Medicion-por-m2-m-y-unidad)
 Aplicación que permite explorar productos, calcular cantidades según unidad de medida y finalizar la compra.  
+>
 **Stack:** React, NestJS, TypeORM, PostgreSQL  
 
 ### 🧾 [E-commerce API](https://github.com/GAgustinFranco/E-commerce-NestJS)
 API de comercio electrónico con autenticación JWT, roles de usuario y gestión de productos e imágenes.  
+>
 **Stack:** NestJS, TypeScript, PostgreSQL, Cloudinary  
 
 ### 🖤 [Blackline Sessions – Tattoo Appointment Manager](https://github.com/GAgustinFranco/Blackline-Sessions-Tattoo-appointment-manager)
 Gestión de turnos para eventos de tatuajes blackwork con múltiples artistas y bandas en vivo.  
+>
 **Stack:** React, Node.js, Express, TypeORM, PostgreSQL  
 
 ### 🎬 [Movie Listings](https://github.com/GAgustinFranco/Movie-listings)
 Aplicación web para visualizar, agregar y eliminar películas, con renderizado dinámico y manejo de peticiones HTTP.  
+>
 **Stack:** Node.js, Express, MongoDB, HTML, CSS, JavaScript  
 
 ---
