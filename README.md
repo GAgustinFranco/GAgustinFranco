@@ -39,10 +39,10 @@ Me apasiona diseñar soluciones escalables, optimizadas y centradas en la experi
 
 ## 🛠️ Proyectos destacados  
 
-### 🏋️ [TrainX – Gestión de entrenamientos fitness](https://github.com/GAgustinFranco/trainx-front)(https://github.com/GAgustinFranco/trainx-back)
+### 🏋️ [TrainX – Gestión de entrenamientos fitness] (https://github.com/GAgustinFranco/trainx-front) (https://github.com/GAgustinFranco/trainx-back)
 Aplicación que permite a los usuarios crear, personalizar y seguir sus planes de ejercicio y rutinas de entrenamiento.
 **Stack:** React, NestJS, TypeORM, PostgreSQL
-**Deployment:** trainx-front.vercel.app
+#### Deployment: trainx-front.vercel.app
 
 ### 🛒 [Tienda Online – Carrito de compras (m², m y unidad)](https://github.com/GAgustinFranco/Carrito-de-compras-Medicion-por-m2-m-y-unidad)
 Aplicación que permite explorar productos, calcular cantidades según unidad de medida y finalizar la compra.  
