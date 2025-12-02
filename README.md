@@ -42,8 +42,14 @@ Me apasiona diseñar soluciones escalables, optimizadas y centradas en la experi
 ### 🏋️ [TrainX – Gestión de entrenamientos fitness](https://github.com/GAgustinFranco/trainx-front)
 Aplicación que permite a los usuarios crear, personalizar y seguir sus planes de ejercicio y rutinas de entrenamiento.
 >
-**Stack:** React, NestJS, TypeORM, PostgreSQL
-#### Deployment: trainx-front.vercel.app
+**Stack:** React, React Router, Axios, NestJS, TypeORM, PostgreSQL
+#### Deployment: [trainx-front.vercel.app](trainx-front.vercel.app)
+
+### 🎨 Insspira – Red social artística interactiva
+Aplicación que permite descubrir, compartir y organizar contenido visual, explorar publicaciones por categorías, interactuar mediante likes y comentarios, y guardar contenido favorito con sistema de moderación y chatbot asistente con IA.
+>
+**Stack:** Next.js 14+, Next.js App Router, Axios, Tailwind, NestJS, TypeORM, PostgreSQL, Cloudinary, Passport, Botpress
+#### Deployment: [insspira-front.vercel.app](insspira-front.vercel.app)
 
 ### 🛒 [Tienda Online – Carrito de compras (m², m y unidad)](https://github.com/GAgustinFranco/Carrito-de-compras-Medicion-por-m2-m-y-unidad)
 Aplicación que permite explorar productos, calcular cantidades según unidad de medida y finalizar la compra.  
