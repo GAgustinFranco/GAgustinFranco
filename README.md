@@ -45,7 +45,7 @@ Aplicación que permite a los usuarios crear, personalizar y seguir sus planes d
 **Stack:** React, React Router, Axios, NestJS, TypeORM, PostgreSQL
 #### Deployment: [trainx-front.vercel.app](https://trainx-front.vercel.app)
 
-### 🎨 Insspira – Red social artística interactiva (En proceso)
+### 🎨 Insspira – Red social artística interactiva - (En proceso...)
 Aplicación que permite descubrir, compartir y organizar contenido visual, explorar publicaciones por categorías, interactuar mediante likes y comentarios, y guardar contenido favorito con sistema de moderación y chatbot asistente con IA.
 >
 **Stack:** Next.js 14+, Next.js App Router, Axios, Tailwind, NestJS, TypeORM, PostgreSQL, Cloudinary, Passport, Botpress
